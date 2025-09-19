@@ -1,11 +1,44 @@
-<h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">Currently studying computer science at Polytech Grenoble engineering school</h3>
+<h1 align="center">Hi 👋 I'm Alex</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About Me</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/alexandre-arle-579ba2191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-arle-579ba2191" height="30" width="40" /></a>
+    - I am working as a Full-Stack Developer at <a href="https://lns-group.com/">LNS.</a><br>
+    - I am currently learning Kotlin and improving my .NET skills.<br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h3 align="left">Technologies and Tools</h3>
 
+<div align="left">
+  <h4>Programming</h4>
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  
+  <h4>Web development</h4>
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+
+  <h4>Mobile development</h4>
+    <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="android studio logo"  />
+
+  <h4>Databases</h4>
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+</div>
