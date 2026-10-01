@@ -4,8 +4,7 @@
 
 <p align="left">
     - I hold a degree in Computer Engineering from <a href="https://polytech.grenoble-inp.fr/">Polytech Grenoble</a>.<br>
-    - I am working as a Full-Stack Developer at <a href="https://lns-group.com/">LNS</a>.<br>
-    - I am currently learning Kotlin and improving my .NET skills.<br>
+    - I am working as a .NET Back-end Engineer at <a href="https://www.fronius.com/">Fronius</a>.<br>
 </p>
 
 <h3 align="left">Technologies and Tools</h3>
